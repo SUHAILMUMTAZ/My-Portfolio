@@ -15,7 +15,7 @@ const Navbar = () => {
       <div className="flex items-center space-x-4 text-xl lg:text-2xl">
         {/* LinkedIn */}
         <a
-          href="https://www.linkedin.com/in/SUHAIL-MUMTAZ"
+          href="https://www.linkedin.com/in/suhail-mumtaz-8409472a1/"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-red-700"
