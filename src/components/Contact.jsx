@@ -1,4 +1,4 @@
-import {CONTACT} from "../constants"
+import {CONTACT} from "../constants/index.js"
 import {motion} from "framer-motion";
 
 
@@ -10,7 +10,7 @@ function Contact() {
                   transition ={{duration:0.5}}
                   className="my-10 text-center text-4xl ">Get in Touch</motion.h1>
       <div className="text-center tracking-tighter">
-      <a href="mailto:rahireyaz.iitb@gmail.com" className="bg-slate-800 border-2 border-sky-500
+      <a href="mailto:suhailmumtaz097@gmail.com" className="bg-slate-800 border-2 border-sky-500
        text-green-500  rounded-lg  font-bold">Send Email</a>
            <motion.p 
             whileInView={{opacity:1 ,x:0}}
