@@ -35,7 +35,7 @@ const Navbar = () => {
         
         {/* Email */}
         <a
-          href="mailto:example@gmail.com"
+          href="suhailmumtaz097@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-red-700"

@@ -15,7 +15,7 @@ export const EXPERIENCES = [
     technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
   },
   {
-    year: "2018-2020",
+    year: "2018-2021",
     role: "POlytechnic",
     company: "Polytechnic college Budgam",
     description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
